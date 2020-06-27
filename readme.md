@@ -1,4 +1,4 @@
-Modified the API to work with a basic Vue frontend. Based on this tutorial https://www.youtube.com/watch?v=2NOsjTT1b_k&t=769s
+Modified the API to work with a basic Vue frontend. Based on this tutorial https://www.youtube.com/watch?v=DJ6PD_jBtU0
 
 # Larticles API
 
