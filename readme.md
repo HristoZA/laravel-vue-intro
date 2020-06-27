@@ -1,3 +1,5 @@
+Modified the API to work with a basic Vue frontend. Based on this tutorial https://www.youtube.com/watch?v=2NOsjTT1b_k&t=769s
+
 # Larticles API
 
 > Laravel 5.5 API that uses the API resources. This is an API for an article CRUD app
